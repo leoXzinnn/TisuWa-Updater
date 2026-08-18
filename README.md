@@ -19,7 +19,7 @@
 
   <img src="https://img.shields.io/badge/WhatsApp-2.26.29.73-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Android-11%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-5%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 </p>
 
