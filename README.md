@@ -1,7 +1,7 @@
 # TisuWa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leoXzinnn/TisuWa-Updater/main/twa_about_logo_1.png" width="140" alt="TisuWa Logo">
+  <img src="https://raw.githubusercontent.com/leoXzinnn/TisuWa-Updater/main/twa_about_logo.png" width="140" alt="TisuWa Logo">
 </p>
 
 <h3 align="center">
